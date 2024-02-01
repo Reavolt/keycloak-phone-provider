@@ -1,0 +1,45 @@
+.login-pf body {
+    background: none;
+    background-color: #f3f4f6;
+    background: url(../img/bg.png) no-repeat center center fixed;
+    background-size: cover;
+}
+
+.card-pf {
+    border: none;
+    border-radius: 8px;
+}
+
+#kc-info-wrapper{
+    background-color: transparent;
+}
+
+input.pf-c-form-control {
+    border: 1px solid #e3d7d7;
+    border-radius: 7px;
+    font-size: 14px;
+    outline: none;
+}
+
+input:focus-within.pf-c-form-control {
+    border: 2px solid #06c;
+}
+
+.pf-c-form-control:not(textarea) {
+    height: 1.88rem;
+}
+.btn-lg {
+    border-radius: 5px;
+}
+
+#kc-info {
+    margin-top: 0;
+}
+
+.pf-c-alert {
+    border: none;
+    border-radius: 8px;
+}
+#kc-header-wrapper {
+    color: black;
+}
